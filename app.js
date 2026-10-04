@@ -147,7 +147,9 @@
   function acts(p) {
     var a = el("div", "acts");
     a.appendChild(link("btn solid", "Download", downloadUrl(p)));
-    a.appendChild(link("btn ghost", "Details", p.page));
+    var det = el("a", "btn ghost", "Details");
+    det.href = "pack.html?id=" + encodeURIComponent(p.id);
+    a.appendChild(det);
     return a;
   }
   function tile(p, i) {
@@ -179,7 +181,7 @@
     x.appendChild(h);
     x.appendChild(el("p", "", p.summary));
     x.appendChild(acts(p));
-    x.appendChild(el("p", "note", "Bedrock Download opens Linkvertise before CurseForge. Java Download and Details go directly to CurseForge."));
+    x.appendChild(el("p", "note", "Bedrock Download opens Linkvertise before CurseForge. Java Download goes directly to CurseForge."));
     b.appendChild(x);
     if (d.showModal) d.showModal(); else d.setAttribute("open", "");
   }
