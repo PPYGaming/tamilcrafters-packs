@@ -1,6 +1,7 @@
 (function () {
   "use strict";
   var BEDROCK_DOWNLOADS = {
+    "1722499": "https://link-center.net/1306936/liroGv8zP6wO",
     "1605369": "https://direct-link.net/1306936/pcH1qZpfC5DV",
     "1327955": "https://link-hub.net/1306936/V8tFLG7XS57t",
     "1590752": "https://direct-link.net/1306936/DKJuWFgM61Mh",
