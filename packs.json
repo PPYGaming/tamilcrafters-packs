@@ -1,422 +1,432 @@
 [
- {
-  "id": 1605369,
-  "title": "Freecam mod Achievement friendly",
-  "edition": "Bedrock",
-  "type": "Scripts",
-  "summary": "Free Cam is a lightweight Minecraft Bedrock Behaviour Pack that lets you explore your world from a detached camera without moving your player.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1912/427/256/256/639193130171980604.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/scripts/freecam-mod",
-  "download": "https://www.curseforge.com/minecraft-bedrock/scripts/freecam-mod/download"
- },
- {
-  "id": 1327955,
-  "title": "Better Enchanting table",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "A Minecraft Bedrock texture pack that displays enchanting table text in other languages clearly and correctly.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1827/904/256/256/639153853165983945.jpg",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/enchanting-table-language-translation",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/enchanting-table-language-translation/download"
- },
- {
-  "id": 1590752,
-  "title": "Vein miner",
-  "edition": "Bedrock",
-  "type": "Scripts",
-  "summary": "Mine connected ore veins instantly with a single block break while keeping your survival experience balanced. This Behaviour Pack supports the most common Minecraft ores and is fully Achievement Friendly.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1889/784/256/256/639182275717735223.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/scripts/vein-miner-tamilcrafters",
-  "download": "https://www.curseforge.com/minecraft-bedrock/scripts/vein-miner-tamilcrafters/download"
- },
- {
-  "id": 1417320,
-  "title": "Enchant Hider hud",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "This resource pack hides enchantment details from item tooltips, showing only the item name when enchanted. Ideal for clean UI lovers or minimalist gameplay style.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1588/410/256/256/639027726222309489.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/enchant-hider-hud",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/enchant-hider-hud/download"
- },
- {
-  "id": 1409467,
-  "title": "Fast Portal Travelling",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "This resource pack enables instant portal travel between dimensions: Overworld Nether Overworld End Nether Overworld End Overworld",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1570/725/256/256/639018148097796341.jpg",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/fast-portal-travelling",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/fast-portal-travelling/download"
- },
- {
-  "id": 1549363,
-  "title": "Moonlight Cape",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "Minecraft New Cape Related resources pack eylira skin vibrant virchurvial support glowing moon light Cape",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1819/309/256/256/639149624461455769.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/moonlight-cape",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/moonlight-cape/download"
- },
- {
-  "id": 1544783,
-  "title": "Anti-xray0.1",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "Anti Xray Resource Pack hides valuable ores underground to reduce unfair X-Ray cheating in Minecraft Bedrock Edition. Perfect for survival servers, realms, and multiplayer worlds. Lightweight, simple, and compatible with most devices.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1810/787/256/256/639145329202584390.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/anti-xray0-1",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/anti-xray0-1/download"
- },
- {
-  "id": 1538496,
-  "title": "Subtitle icons",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "Replaces vanilla Minecraft subtitle text with custom mob icons for a cleaner and more immersive subtitle experience Converts vanilla mob subtitle names into icons and improves subtitle readability during gameplay.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1853/42/256/256/639165049494546874.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/subtitle-icons",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/subtitle-icons/download"
- },
- {
-  "id": 1557282,
-  "title": "Simple xray pack",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "A lightweight X-Ray Resource Pack for Minecraft Bedrock Edition that highlights ores and improves underground visibility. Designed for testing, private worlds, and experimental gameplay with smooth performance support.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1832/884/256/256/639156333123558447.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/simple-xray-pack",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/simple-xray-pack/download"
- },
- {
-  "id": 1619355,
-  "title": "Auto Totem Unbreakable Totem",
-  "edition": "Bedrock",
-  "type": "Scripts",
-  "summary": "Auto Totem Unbreakable Totem player Always eqpe in offhand totem, totem is unbelievable with out need totem",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1933/958/256/256/639202491097558931.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/scripts/auto-totem-unbreakable-totem",
-  "download": "https://www.curseforge.com/minecraft-bedrock/scripts/auto-totem-unbreakable-totem/download"
- },
- {
-  "id": 1599255,
-  "title": "Game mod Switcher Achievement friendly",
-  "edition": "Bedrock",
-  "type": "Scripts",
-  "summary": "Achievement-Friendly Game Mode Switcher for Minecraft Bedrock 1.21.60+! Open a simple UI with /gm and instantly switch between Survival, Creative, and Spectator without permanently disabling achievements, Force spectator Force Creative in single Commant/gm",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1902/869/256/256/639188708508200651.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/scripts/game-mod-switcher-achument-friendly",
-  "download": "https://www.curseforge.com/minecraft-bedrock/scripts/game-mod-switcher-achument-friendly/download"
- },
- {
-  "id": 1559380,
-  "title": "Outline Glowing ores",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "Outline Glowing Ores enhances ore visibility with bright glowing outlines while keeping Minecraft's vanilla style. Easily spot exposed ores in caves and mines without X-Ray features. Lightweight, achievement-friendly, and performance optimized.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1836/660/256/256/639158113060663850.jpg",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/outline-glowing-ores",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/outline-glowing-ores/download"
- },
- {
-  "id": 1563915,
-  "title": "Spawner Chest Op items",
-  "edition": "Bedrock",
-  "type": "Addons",
-  "summary": "Improves dungeon chest loot found near monster spawners. Discover better treasures, valuable resources, and rare rewards while exploring underground dungeons. Every dungeon chest now offers more exciting loot.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1844/472/256/256/639161075673459093.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/addons/spawner-chest-op-items",
-  "download": "https://www.curseforge.com/minecraft-bedrock/addons/spawner-chest-op-items/download"
- },
- {
-  "id": 1618793,
-  "title": "Ultimate vein miner tools",
-  "edition": "Bedrock",
-  "type": "Scripts",
-  "summary": "This behavior pack is designed to provide fast, efficient mining and farming while remaining 100% achievement-friendly for survival worlds and Realms.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1933/139/256/256/639202141215609441.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/scripts/ultimate-vein-miner-tools",
-  "download": "https://www.curseforge.com/minecraft-bedrock/scripts/ultimate-vein-miner-tools/download"
- },
- {
-  "id": 1611119,
-  "title": "FPS Booster+Lag free",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "Boost your Minecraft Bedrock performance without changing the core gameplay. This resource pack removes unnecessary visual effects and improves visibility for smoother gameplay, making it perfect for survival, PvP, realms, and multiplayer servers.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1921/77/256/256/639197033324773321.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/fps-booster-free-lag",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/fps-booster-free-lag/download"
- },
- {
-  "id": 1569855,
-  "title": "Brightness+",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "Minecraft Bedrock Night Vision Resource Pack gives permanent brightness in caves, and nighttime without potions. It works as a resource pack, supports realms/servers, and is compatible with recent Bedrock versions",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1855/228/256/256/639166054094041468.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/brightness-resorse-pack",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/brightness-resorse-pack/download"
- },
- {
-  "id": 1623433,
-  "title": "Glowing armour trim",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "Glowing Armor Trims is a resource pack that makes every armor trim glow (emissive) in the dark, giving armor a brighter and more stylish appearance. It only changes visuals and does not affect gameplay.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1940/86/256/256/639204909724642920.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/glowing-armour-trim",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/glowing-armour-trim/download"
- },
- {
-  "id": 1560730,
-  "title": "Compass,Recovery compass, Clock Hud",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "Displays Compass, Recovery Compass, and Clock on the HUD for quick access while playing. Lightweight, survival-friendly, and achievement compatible. Note: future Minecraft updates may affect Recovery Compass HUD support.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1839/94/256/256/639159118847458052.jpg",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/compass-recovery-compass-clock-hud",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/compass-recovery-compass-clock-hud/download"
- },
- {
-  "id": 1608444,
-  "title": "RTP-Random Teleport Achievement friendly",
-  "edition": "Bedrock",
-  "type": "Scripts",
-  "summary": "Achievement-friendly Random Teleport addon for Minecraft Bedrock. Players can use /rtp to teleport to a random safe location without enabling cheats or experimental features.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1916/990/256/256/639195205937598253.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/scripts/rtp-random-teleport-achument-friendly",
-  "download": "https://www.curseforge.com/minecraft-bedrock/scripts/rtp-random-teleport-achument-friendly/download"
- },
- {
-  "id": 1573996,
-  "title": "Better trading wandering_trader",
-  "edition": "Bedrock",
-  "type": "Addons",
-  "summary": "Wandering Trader OP Trades upgrades the Wandering Trader with powerful and useful trades. Get rare items, enchanted gear, potions, valuable resources, and other OP rewards.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1862/488/256/256/639169423832635908.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/addons/op-trading-wandering-trader",
-  "download": "https://www.curseforge.com/minecraft-bedrock/addons/op-trading-wandering-trader/download"
- },
- {
-  "id": 1631316,
-  "title": "Launch pad",
-  "edition": "Bedrock",
-  "type": "Addons",
-  "summary": "Launch Pad adds a simple and fun way to launch players high into the air. Step onto the pad to be propelled upward, making it perfect for fast travel, parkour maps, minigames, and adventure worlds",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1952/32/256/256/639209818927468691.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/addons/launch-pad",
-  "download": "https://www.curseforge.com/minecraft-bedrock/addons/launch-pad/download"
- },
- {
-  "id": 1707305,
-  "title": "Anime girl animated totem",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "Anime Girl Animated Totem — A fan-made animated Totem texture pack featuring a cute anime girl animation for Minecraft.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/2063/590/256/256/639256789697106955_animated.gif",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/anime-girl-animated-totem",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/anime-girl-animated-totem/download"
- },
- {
-  "id": 1622963,
-  "title": "Fast Hopper - Achievement friendly",
-  "edition": "Bedrock",
-  "type": "Scripts",
-  "summary": "Sneak + right-click any hopper to open a panel and set its transfer speed (1-64 items per cycle). Works with any container.\",",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1939/391/256/256/639204578138043213.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/scripts/fast-hopper-achument-friendly",
-  "download": "https://www.curseforge.com/minecraft-bedrock/scripts/fast-hopper-achument-friendly/download"
- },
- {
-  "id": 1616338,
-  "title": "Waypoint+ Achievement friendly",
-  "edition": "Bedrock",
-  "type": "Addons",
-  "summary": "A lightweight Waypoint System for Minecraft Bedrock 1.26.30+ that lets players create, manage, and teleport to personal waypoints. Designed to be achievement-friendly, multiplayer compatible, and easy to use.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1929/191/256/256/639200459673719859.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/addons/waypoints-tamilcrafters",
-  "download": "https://www.curseforge.com/minecraft-bedrock/addons/waypoints-tamilcrafters/download"
- },
- {
-  "id": 1615318,
-  "title": "Land Claim Achievement friendly",
-  "edition": "Bedrock",
-  "type": "Scripts",
-  "summary": "Protect your builds with an easy-to-use Land Claim system. Create claims with a Golden Shovel, manage trusted players, view claim info with a Stick, and enjoy particle claim borders. The Main Menu includes all claim options,.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1927/612/256/256/639199807998908191.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/scripts/landclaim-achument-friendly",
-  "download": "https://www.curseforge.com/minecraft-bedrock/scripts/landclaim-achument-friendly/download"
- },
- {
-  "id": 1634524,
-  "title": "Player to player teleport Request",
-  "edition": "Bedrock",
-  "type": "Addons",
-  "summary": "Player-to-Player Teleport (PTP) is an achievement-friendly Minecraft Bedrock 1.26.30+ addon that lets players safely send and receive teleport requests in multiplayer worlds, Realms, and dedicated servers. It includes a /ptp menu, Action Bar notifications",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1956/695/256/256/639211710930203020.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/addons/player-to-player-teleport-request",
-  "download": "https://www.curseforge.com/minecraft-bedrock/addons/player-to-player-teleport-request/download"
- },
- {
-  "id": 1538973,
-  "title": "TVK Cape & Eylira",
-  "edition": "Bedrock",
-  "type": "Texture Packs",
-  "summary": "Adds a custom TVK themed cape with a clean design and smooth appearance for Minecraft Bedrock Edition",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1800/454/256/256/639139880877184272.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/tvk",
-  "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/tvk/download"
- },
- {
-  "id": 1620188,
-  "title": "Magic wand Achievement friendly",
-  "edition": "Bedrock",
-  "type": "Addons",
-  "summary": "A simple magic addon that adds a Magic Wand with a single powerful spell.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1935/225/256/256/639202935618762196.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/addons/magic-wand-achument-friendly",
-  "download": "https://www.curseforge.com/minecraft-bedrock/addons/magic-wand-achument-friendly/download"
- },
- {
-  "id": 1594024,
-  "title": "CLEAR Lag + Achievement friendly",
-  "edition": "Bedrock",
-  "type": "Scripts",
-  "summary": "Automatic lag clearing system with item, projectile, boat, and minecart cleanup, plus performance monitoring and an in-game config GUI with live slider feedback. Achievement-friendly and Realms/Dedicated Server compatible.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1894/860/256/256/639184749913112783.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/scripts/clear-lag-auchment-friendly",
-  "download": "https://www.curseforge.com/minecraft-bedrock/scripts/clear-lag-auchment-friendly/download"
- },
- {
-  "id": 1563374,
-  "title": "Custom Mangrove trees",
-  "edition": "Bedrock",
-  "type": "Addons",
-  "summary": "Custom Mangrove Tree Behavior Pack for Minecraft Bedrock. Changes Mangrove tree generation by swapping genrate Tall trees Deferent structure, Shaplingas not request Bonemeal",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1915/300/256/256/639194496525543068.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/addons/custom-mangrove-trees",
-  "download": "https://www.curseforge.com/minecraft-bedrock/addons/custom-mangrove-trees/download"
- },
- {
-  "id": 1610105,
-  "title": "Simple back",
-  "edition": "Bedrock",
-  "type": "Scripts",
-  "summary": "This pack Achievement friendly send Chat for. /back tp to last Death loc,all Dimanson Support, safe your items.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1919/496/256/256/639196343040879198.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/scripts/back-to-last-death",
-  "download": "https://www.curseforge.com/minecraft-bedrock/scripts/back-to-last-death/download"
- },
- {
-  "id": 1663846,
-  "title": "Chest protection",
-  "edition": "Bedrock",
-  "type": "Scripts",
-  "summary": "Owner-based chest protection with a management panel, member access, and item activity logging",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/2000/300/256/256/639230102574620397.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/scripts/chest-production",
-  "download": "https://www.curseforge.com/minecraft-bedrock/scripts/chest-production/download"
- },
- {
-  "id": 1587552,
-  "title": "Lumis Friendly Item Box Fairy",
-  "edition": "Bedrock",
-  "type": "Addons",
-  "summary": "Lumis is a lightweight flying companion for Minecraft Bedrock that naturally spawns in End Cities. It combines portable storage, leveling, and instant summoning into one friendly pet.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1885/47/256/256/639179882066283389.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/addons/lumis-friendly-item-box-fairy",
-  "download": "https://www.curseforge.com/minecraft-bedrock/addons/lumis-friendly-item-box-fairy/download"
- },
- {
-  "id": 1574492,
-  "title": "Op PiglinsTrade",
-  "edition": "Bedrock",
-  "type": "Addons",
-  "summary": "Transforms Piglin bartering into a speedrunner-friendly experience! Trade gold with Piglins to obtain generous amounts of Ender Pearls, Fire Resistance Potions, Obsidian, Arrows, String, Fire Charges, and more.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1863/367/256/256/639169736982018503.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/addons/op-piglins-trade",
-  "download": "https://www.curseforge.com/minecraft-bedrock/addons/op-piglins-trade/download"
- },
- {
-  "id": 1555720,
-  "title": "Enchanted Golden Apple Recipe Achievement Friendly",
-  "edition": "Bedrock",
-  "type": "Addons",
-  "summary": "Bring back crafting for the legendary Enchanted Golden Apple in Minecraft Bedrock! This achievement-friendly Behavior Pack adds a balanced survival recipe using rare materials, making the Notch Apple craftable again without breaking vanilla gameplay.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1830/53/256/256/639154918904142620.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/addons/enchanted-golden-apple-recipe-achievement-friendly",
-  "download": "https://www.curseforge.com/minecraft-bedrock/addons/enchanted-golden-apple-recipe-achievement-friendly/download"
- },
- {
-  "id": 1683251,
-  "title": "Sign board command run Achievement friendly",
-  "edition": "Bedrock",
-  "type": "Scripts",
-  "summary": "Minecraft Bedrock addon that turns signboards into command panels. Normal right-click runs the set command, while Sneak + right-click opens the panel to configure commands. Survival & Achievement friendly, no experiments, supports Bedrock 1.26.30+.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/2029/81/256/256/639242261858190006.jpg",
-  "page": "https://www.curseforge.com/minecraft-bedrock/scripts/sign-board-command-run-achument-friendly",
-  "download": "https://www.curseforge.com/minecraft-bedrock/scripts/sign-board-command-run-achument-friendly/download"
- },
- {
-  "id": 1679379,
-  "title": "AxePick — Vein Miner & Smart Timber",
-  "edition": "Bedrock",
-  "type": "Addons",
-  "summary": "AxePick is a Minecraft Bedrock addon that adds a completely new custom tool called the AxePick. The AxePick combines the functions of both a Pickaxe and an Axe into one tool.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/2023/430/256/256/639239724744651811.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/addons/axepick-vein-miner-smart-timber",
-  "download": "https://www.curseforge.com/minecraft-bedrock/addons/axepick-vein-miner-smart-timber/download"
- },
- {
-  "id": 1655024,
-  "title": "Flag Collect Event",
-  "edition": "Bedrock",
-  "type": "Addons",
-  "summary": "A Minecraft Bedrock Independence Day event addon where players explore the world to find rare Indian flags and collect them for special rewards.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1987/507/256/256/639224745505403145.jpg",
-  "page": "https://www.curseforge.com/minecraft-bedrock/addons/flag-collect-event",
-  "download": "https://www.curseforge.com/minecraft-bedrock/addons/flag-collect-event/download"
- },
- {
-  "id": 1545675,
-  "title": "Tvk Eylira",
-  "edition": "Java",
-  "type": "Resource Packs",
-  "summary": "TVK Elytra Skin Pack for Minecraft Java Edition! Adds a stylish TVK-themed Elytra texture with a clean custom design. Lightweight, smooth, and compatible with vanilla & most modded versions. Perfect for survival, PvP, and multiplayer.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1812/454/256/256/639146027053668875.png",
-  "page": "https://www.curseforge.com/minecraft/texture-packs/tvk-eylira",
-  "download": "https://www.curseforge.com/minecraft/texture-packs/tvk-eylira/download"
- },
- {
-  "id": 1721937,
-  "title": "Parrots power Achievement friendly",
-  "edition": "Bedrock",
-  "type": "Scripts",
-  "summary": "Minecraft parrots gain unique powers based on their color. Each parrot provides a different useful effect, making them valuable companions during exploration",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/2085/422/256/256/639265128991302550.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/scripts/parrots-power-achument-friendly",
-  "download": "https://www.curseforge.com/minecraft-bedrock/scripts/parrots-power-achument-friendly/download"
- },
- {
-  "id": 1613999,
-  "title": "Gold Coin 🪙",
-  "edition": "Bedrock",
-  "type": "Addons",
-  "summary": "Gold Coin - a small, stackable currency item used for trading, vending, crafting recipes, or collection",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/1925/655/256/256/639198972573245680.png",
-  "page": "https://www.curseforge.com/minecraft-bedrock/addons/gold-coin",
-  "download": "https://www.curseforge.com/minecraft-bedrock/addons/gold-coin/download"
- },
- {
-  "id": 1723734,
-  "title": "Animated totem tohru",
-  "edition": "Java",
-  "type": "Resource Packs",
-  "summary": "Animated totem of undying resource pack for Minecraft Java, made with the Tamilcrafters Studio maker.",
-  "image": "https://media.forgecdn.net/avatars/thumbnails/2088/11/256/256/639266078721830559_animated.gif",
-  "page": "https://www.curseforge.com/minecraft/texture-packs/animated-totem-tohru",
-  "download": "https://www.curseforge.com/minecraft/texture-packs/animated-totem-tohru/download"
- }
+  {
+    "id": 1722499,
+    "title": "Frozen Zombie",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "Meet the Frozen Zombie, a dangerous new Minecraft Bedrock monster that spawns in snowy biomes.",
+    "image": "https://media.forgecdn.net/attachments/2000/423/2034309-png.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/frozen-zombie",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/frozen-zombie/files/9038133"
+  },
+  {
+    "id": 1605369,
+    "title": "Freecam mod Achievement friendly",
+    "edition": "Bedrock",
+    "type": "Scripts",
+    "summary": "Free Cam is a lightweight Minecraft Bedrock Behaviour Pack that lets you explore your world from a detached camera without moving your player.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1912/427/256/256/639193130171980604.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/scripts/freecam-mod",
+    "download": "https://www.curseforge.com/minecraft-bedrock/scripts/freecam-mod/download"
+  },
+  {
+    "id": 1327955,
+    "title": "Better Enchanting table",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "A Minecraft Bedrock texture pack that displays enchanting table text in other languages clearly and correctly.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1827/904/256/256/639153853165983945.jpg",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/enchanting-table-language-translation",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/enchanting-table-language-translation/download"
+  },
+  {
+    "id": 1590752,
+    "title": "Vein miner",
+    "edition": "Bedrock",
+    "type": "Scripts",
+    "summary": "Mine connected ore veins instantly with a single block break while keeping your survival experience balanced. This Behaviour Pack supports the most common Minecraft ores and is fully Achievement Friendly.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1889/784/256/256/639182275717735223.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/scripts/vein-miner-tamilcrafters",
+    "download": "https://www.curseforge.com/minecraft-bedrock/scripts/vein-miner-tamilcrafters/download"
+  },
+  {
+    "id": 1417320,
+    "title": "Enchant Hider hud",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "This resource pack hides enchantment details from item tooltips, showing only the item name when enchanted. Ideal for clean UI lovers or minimalist gameplay style.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1588/410/256/256/639027726222309489.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/enchant-hider-hud",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/enchant-hider-hud/download"
+  },
+  {
+    "id": 1409467,
+    "title": "Fast Portal Travelling",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "This resource pack enables instant portal travel between dimensions: Overworld Nether Overworld End Nether Overworld End Overworld",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1570/725/256/256/639018148097796341.jpg",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/fast-portal-travelling",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/fast-portal-travelling/download"
+  },
+  {
+    "id": 1549363,
+    "title": "Moonlight Cape",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "Minecraft New Cape Related resources pack eylira skin vibrant virchurvial support glowing moon light Cape",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1819/309/256/256/639149624461455769.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/moonlight-cape",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/moonlight-cape/download"
+  },
+  {
+    "id": 1544783,
+    "title": "Anti-xray0.1",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "Anti Xray Resource Pack hides valuable ores underground to reduce unfair X-Ray cheating in Minecraft Bedrock Edition. Perfect for survival servers, realms, and multiplayer worlds. Lightweight, simple, and compatible with most devices.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1810/787/256/256/639145329202584390.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/anti-xray0-1",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/anti-xray0-1/download"
+  },
+  {
+    "id": 1538496,
+    "title": "Subtitle icons",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "Replaces vanilla Minecraft subtitle text with custom mob icons for a cleaner and more immersive subtitle experience Converts vanilla mob subtitle names into icons and improves subtitle readability during gameplay.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1853/42/256/256/639165049494546874.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/subtitle-icons",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/subtitle-icons/download"
+  },
+  {
+    "id": 1557282,
+    "title": "Simple xray pack",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "A lightweight X-Ray Resource Pack for Minecraft Bedrock Edition that highlights ores and improves underground visibility. Designed for testing, private worlds, and experimental gameplay with smooth performance support.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1832/884/256/256/639156333123558447.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/simple-xray-pack",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/simple-xray-pack/download"
+  },
+  {
+    "id": 1619355,
+    "title": "Auto Totem Unbreakable Totem",
+    "edition": "Bedrock",
+    "type": "Scripts",
+    "summary": "Auto Totem Unbreakable Totem player Always eqpe in offhand totem, totem is unbelievable with out need totem",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1933/958/256/256/639202491097558931.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/scripts/auto-totem-unbreakable-totem",
+    "download": "https://www.curseforge.com/minecraft-bedrock/scripts/auto-totem-unbreakable-totem/download"
+  },
+  {
+    "id": 1599255,
+    "title": "Game mod Switcher Achievement friendly",
+    "edition": "Bedrock",
+    "type": "Scripts",
+    "summary": "Achievement-Friendly Game Mode Switcher for Minecraft Bedrock 1.21.60+! Open a simple UI with /gm and instantly switch between Survival, Creative, and Spectator without permanently disabling achievements, Force spectator Force Creative in single Commant/gm",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1902/869/256/256/639188708508200651.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/scripts/game-mod-switcher-achument-friendly",
+    "download": "https://www.curseforge.com/minecraft-bedrock/scripts/game-mod-switcher-achument-friendly/download"
+  },
+  {
+    "id": 1559380,
+    "title": "Outline Glowing ores",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "Outline Glowing Ores enhances ore visibility with bright glowing outlines while keeping Minecraft's vanilla style. Easily spot exposed ores in caves and mines without X-Ray features. Lightweight, achievement-friendly, and performance optimized.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1836/660/256/256/639158113060663850.jpg",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/outline-glowing-ores",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/outline-glowing-ores/download"
+  },
+  {
+    "id": 1563915,
+    "title": "Spawner Chest Op items",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "Improves dungeon chest loot found near monster spawners. Discover better treasures, valuable resources, and rare rewards while exploring underground dungeons. Every dungeon chest now offers more exciting loot.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1844/472/256/256/639161075673459093.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/spawner-chest-op-items",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/spawner-chest-op-items/download"
+  },
+  {
+    "id": 1618793,
+    "title": "Ultimate vein miner tools",
+    "edition": "Bedrock",
+    "type": "Scripts",
+    "summary": "This behavior pack is designed to provide fast, efficient mining and farming while remaining 100% achievement-friendly for survival worlds and Realms.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1933/139/256/256/639202141215609441.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/scripts/ultimate-vein-miner-tools",
+    "download": "https://www.curseforge.com/minecraft-bedrock/scripts/ultimate-vein-miner-tools/download"
+  },
+  {
+    "id": 1611119,
+    "title": "FPS Booster+Lag free",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "Boost your Minecraft Bedrock performance without changing the core gameplay. This resource pack removes unnecessary visual effects and improves visibility for smoother gameplay, making it perfect for survival, PvP, realms, and multiplayer servers.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1921/77/256/256/639197033324773321.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/fps-booster-free-lag",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/fps-booster-free-lag/download"
+  },
+  {
+    "id": 1569855,
+    "title": "Brightness+",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "Minecraft Bedrock Night Vision Resource Pack gives permanent brightness in caves, and nighttime without potions. It works as a resource pack, supports realms/servers, and is compatible with recent Bedrock versions",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1855/228/256/256/639166054094041468.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/brightness-resorse-pack",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/brightness-resorse-pack/download"
+  },
+  {
+    "id": 1623433,
+    "title": "Glowing armour trim",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "Glowing Armor Trims is a resource pack that makes every armor trim glow (emissive) in the dark, giving armor a brighter and more stylish appearance. It only changes visuals and does not affect gameplay.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1940/86/256/256/639204909724642920.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/glowing-armour-trim",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/glowing-armour-trim/download"
+  },
+  {
+    "id": 1560730,
+    "title": "Compass,Recovery compass, Clock Hud",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "Displays Compass, Recovery Compass, and Clock on the HUD for quick access while playing. Lightweight, survival-friendly, and achievement compatible. Note: future Minecraft updates may affect Recovery Compass HUD support.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1839/94/256/256/639159118847458052.jpg",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/compass-recovery-compass-clock-hud",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/compass-recovery-compass-clock-hud/download"
+  },
+  {
+    "id": 1608444,
+    "title": "RTP-Random Teleport Achievement friendly",
+    "edition": "Bedrock",
+    "type": "Scripts",
+    "summary": "Achievement-friendly Random Teleport addon for Minecraft Bedrock. Players can use /rtp to teleport to a random safe location without enabling cheats or experimental features.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1916/990/256/256/639195205937598253.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/scripts/rtp-random-teleport-achument-friendly",
+    "download": "https://www.curseforge.com/minecraft-bedrock/scripts/rtp-random-teleport-achument-friendly/download"
+  },
+  {
+    "id": 1573996,
+    "title": "Better trading wandering_trader",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "Wandering Trader OP Trades upgrades the Wandering Trader with powerful and useful trades. Get rare items, enchanted gear, potions, valuable resources, and other OP rewards.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1862/488/256/256/639169423832635908.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/op-trading-wandering-trader",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/op-trading-wandering-trader/download"
+  },
+  {
+    "id": 1631316,
+    "title": "Launch pad",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "Launch Pad adds a simple and fun way to launch players high into the air. Step onto the pad to be propelled upward, making it perfect for fast travel, parkour maps, minigames, and adventure worlds",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1952/32/256/256/639209818927468691.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/launch-pad",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/launch-pad/download"
+  },
+  {
+    "id": 1707305,
+    "title": "Anime girl animated totem",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "Anime Girl Animated Totem — A fan-made animated Totem texture pack featuring a cute anime girl animation for Minecraft.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/2063/590/256/256/639256789697106955_animated.gif",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/anime-girl-animated-totem",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/anime-girl-animated-totem/download"
+  },
+  {
+    "id": 1622963,
+    "title": "Fast Hopper - Achievement friendly",
+    "edition": "Bedrock",
+    "type": "Scripts",
+    "summary": "Sneak + right-click any hopper to open a panel and set its transfer speed (1-64 items per cycle). Works with any container.\",",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1939/391/256/256/639204578138043213.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/scripts/fast-hopper-achument-friendly",
+    "download": "https://www.curseforge.com/minecraft-bedrock/scripts/fast-hopper-achument-friendly/download"
+  },
+  {
+    "id": 1616338,
+    "title": "Waypoint+ Achievement friendly",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "A lightweight Waypoint System for Minecraft Bedrock 1.26.30+ that lets players create, manage, and teleport to personal waypoints. Designed to be achievement-friendly, multiplayer compatible, and easy to use.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1929/191/256/256/639200459673719859.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/waypoints-tamilcrafters",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/waypoints-tamilcrafters/download"
+  },
+  {
+    "id": 1615318,
+    "title": "Land Claim Achievement friendly",
+    "edition": "Bedrock",
+    "type": "Scripts",
+    "summary": "Protect your builds with an easy-to-use Land Claim system. Create claims with a Golden Shovel, manage trusted players, view claim info with a Stick, and enjoy particle claim borders. The Main Menu includes all claim options,.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1927/612/256/256/639199807998908191.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/scripts/landclaim-achument-friendly",
+    "download": "https://www.curseforge.com/minecraft-bedrock/scripts/landclaim-achument-friendly/download"
+  },
+  {
+    "id": 1634524,
+    "title": "Player to player teleport Request",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "Player-to-Player Teleport (PTP) is an achievement-friendly Minecraft Bedrock 1.26.30+ addon that lets players safely send and receive teleport requests in multiplayer worlds, Realms, and dedicated servers. It includes a /ptp menu, Action Bar notifications",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1956/695/256/256/639211710930203020.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/player-to-player-teleport-request",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/player-to-player-teleport-request/download"
+  },
+  {
+    "id": 1538973,
+    "title": "TVK Cape & Eylira",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "Adds a custom TVK themed cape with a clean design and smooth appearance for Minecraft Bedrock Edition",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1800/454/256/256/639139880877184272.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/tvk",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/tvk/download"
+  },
+  {
+    "id": 1620188,
+    "title": "Magic wand Achievement friendly",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "A simple magic addon that adds a Magic Wand with a single powerful spell.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1935/225/256/256/639202935618762196.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/magic-wand-achument-friendly",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/magic-wand-achument-friendly/download"
+  },
+  {
+    "id": 1594024,
+    "title": "CLEAR Lag + Achievement friendly",
+    "edition": "Bedrock",
+    "type": "Scripts",
+    "summary": "Automatic lag clearing system with item, projectile, boat, and minecart cleanup, plus performance monitoring and an in-game config GUI with live slider feedback. Achievement-friendly and Realms/Dedicated Server compatible.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1894/860/256/256/639184749913112783.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/scripts/clear-lag-auchment-friendly",
+    "download": "https://www.curseforge.com/minecraft-bedrock/scripts/clear-lag-auchment-friendly/download"
+  },
+  {
+    "id": 1563374,
+    "title": "Custom Mangrove trees",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "Custom Mangrove Tree Behavior Pack for Minecraft Bedrock. Changes Mangrove tree generation by swapping genrate Tall trees Deferent structure, Shaplingas not request Bonemeal",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1915/300/256/256/639194496525543068.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/custom-mangrove-trees",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/custom-mangrove-trees/download"
+  },
+  {
+    "id": 1610105,
+    "title": "Simple back",
+    "edition": "Bedrock",
+    "type": "Scripts",
+    "summary": "This pack Achievement friendly send Chat for. /back tp to last Death loc,all Dimanson Support, safe your items.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1919/496/256/256/639196343040879198.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/scripts/back-to-last-death",
+    "download": "https://www.curseforge.com/minecraft-bedrock/scripts/back-to-last-death/download"
+  },
+  {
+    "id": 1663846,
+    "title": "Chest protection",
+    "edition": "Bedrock",
+    "type": "Scripts",
+    "summary": "Owner-based chest protection with a management panel, member access, and item activity logging",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/2000/300/256/256/639230102574620397.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/scripts/chest-production",
+    "download": "https://www.curseforge.com/minecraft-bedrock/scripts/chest-production/download"
+  },
+  {
+    "id": 1587552,
+    "title": "Lumis Friendly Item Box Fairy",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "Lumis is a lightweight flying companion for Minecraft Bedrock that naturally spawns in End Cities. It combines portable storage, leveling, and instant summoning into one friendly pet.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1885/47/256/256/639179882066283389.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/lumis-friendly-item-box-fairy",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/lumis-friendly-item-box-fairy/download"
+  },
+  {
+    "id": 1574492,
+    "title": "Op PiglinsTrade",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "Transforms Piglin bartering into a speedrunner-friendly experience! Trade gold with Piglins to obtain generous amounts of Ender Pearls, Fire Resistance Potions, Obsidian, Arrows, String, Fire Charges, and more.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1863/367/256/256/639169736982018503.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/op-piglins-trade",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/op-piglins-trade/download"
+  },
+  {
+    "id": 1555720,
+    "title": "Enchanted Golden Apple Recipe Achievement Friendly",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "Bring back crafting for the legendary Enchanted Golden Apple in Minecraft Bedrock! This achievement-friendly Behavior Pack adds a balanced survival recipe using rare materials, making the Notch Apple craftable again without breaking vanilla gameplay.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1830/53/256/256/639154918904142620.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/enchanted-golden-apple-recipe-achievement-friendly",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/enchanted-golden-apple-recipe-achievement-friendly/download"
+  },
+  {
+    "id": 1683251,
+    "title": "Sign board command run Achievement friendly",
+    "edition": "Bedrock",
+    "type": "Scripts",
+    "summary": "Minecraft Bedrock addon that turns signboards into command panels. Normal right-click runs the set command, while Sneak + right-click opens the panel to configure commands. Survival & Achievement friendly, no experiments, supports Bedrock 1.26.30+.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/2029/81/256/256/639242261858190006.jpg",
+    "page": "https://www.curseforge.com/minecraft-bedrock/scripts/sign-board-command-run-achument-friendly",
+    "download": "https://www.curseforge.com/minecraft-bedrock/scripts/sign-board-command-run-achument-friendly/download"
+  },
+  {
+    "id": 1679379,
+    "title": "AxePick — Vein Miner & Smart Timber",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "AxePick is a Minecraft Bedrock addon that adds a completely new custom tool called the AxePick. The AxePick combines the functions of both a Pickaxe and an Axe into one tool.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/2023/430/256/256/639239724744651811.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/axepick-vein-miner-smart-timber",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/axepick-vein-miner-smart-timber/download"
+  },
+  {
+    "id": 1655024,
+    "title": "Flag Collect Event",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "A Minecraft Bedrock Independence Day event addon where players explore the world to find rare Indian flags and collect them for special rewards.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1987/507/256/256/639224745505403145.jpg",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/flag-collect-event",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/flag-collect-event/download"
+  },
+  {
+    "id": 1545675,
+    "title": "Tvk Eylira",
+    "edition": "Java",
+    "type": "Resource Packs",
+    "summary": "TVK Elytra Skin Pack for Minecraft Java Edition! Adds a stylish TVK-themed Elytra texture with a clean custom design. Lightweight, smooth, and compatible with vanilla & most modded versions. Perfect for survival, PvP, and multiplayer.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1812/454/256/256/639146027053668875.png",
+    "page": "https://www.curseforge.com/minecraft/texture-packs/tvk-eylira",
+    "download": "https://www.curseforge.com/minecraft/texture-packs/tvk-eylira/download"
+  },
+  {
+    "id": 1721937,
+    "title": "Parrots power Achievement friendly",
+    "edition": "Bedrock",
+    "type": "Scripts",
+    "summary": "Minecraft parrots gain unique powers based on their color. Each parrot provides a different useful effect, making them valuable companions during exploration",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/2085/422/256/256/639265128991302550.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/scripts/parrots-power-achument-friendly",
+    "download": "https://www.curseforge.com/minecraft-bedrock/scripts/parrots-power-achument-friendly/download"
+  },
+  {
+    "id": 1613999,
+    "title": "Gold Coin 🪙",
+    "edition": "Bedrock",
+    "type": "Addons",
+    "summary": "Gold Coin - a small, stackable currency item used for trading, vending, crafting recipes, or collection",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/1925/655/256/256/639198972573245680.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/addons/gold-coin",
+    "download": "https://www.curseforge.com/minecraft-bedrock/addons/gold-coin/download"
+  },
+  {
+    "id": 1723734,
+    "title": "Animated totem tohru",
+    "edition": "Java",
+    "type": "Resource Packs",
+    "summary": "Animated totem of undying resource pack for Minecraft Java, made with the Tamilcrafters Studio maker.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/2088/11/256/256/639266078721830559_animated.gif",
+    "page": "https://www.curseforge.com/minecraft/texture-packs/animated-totem-tohru",
+    "download": "https://www.curseforge.com/minecraft/texture-packs/animated-totem-tohru/download"
+  }
 ]
