@@ -42,7 +42,8 @@
     "1679379": "https://link-target.net/1306936/8rw1qMxa04Ku",
     "1655024": "https://link-hub.net/1306936/1BZrHcqClUIT",
     "1721937": "https://link-hub.net/1306936/KNS0Ef5XdaZP",
-    "1613999": "https://link-hub.net/1306936/cIDGv1IOzHdX"
+    "1613999": "https://link-hub.net/1306936/cIDGv1IOzHdX",
+    "1730717": "https://link-target.net/1306936/NTjlTAVi2qds"
   };
   var $ = function (id) { return document.getElementById(id); };
   function el(t, c, x) { var e = document.createElement(t); if (c) e.className = c; if (x != null) e.textContent = x; return e; }
