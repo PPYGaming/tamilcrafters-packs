@@ -428,5 +428,15 @@
     "image": "https://media.forgecdn.net/avatars/thumbnails/2088/11/256/256/639266078721830559_animated.gif",
     "page": "https://www.curseforge.com/minecraft/texture-packs/animated-totem-tohru",
     "download": "https://www.curseforge.com/minecraft/texture-packs/animated-totem-tohru/download"
+  },
+  {
+    "id": 1730717,
+    "title": "Hero cape",
+    "edition": "Bedrock",
+    "type": "Texture Packs",
+    "summary": "Bring the new Hero Cape into Minecraft with a custom Elytra design. A lightweight, achievement friendly, client-side resource pack in vanilla style.",
+    "image": "https://media.forgecdn.net/avatars/thumbnails/2097/970/256/256/639269148470291179.png",
+    "page": "https://www.curseforge.com/minecraft-bedrock/texture-packs/hero-cape",
+    "download": "https://www.curseforge.com/minecraft-bedrock/texture-packs/hero-cape/download"
   }
 ]
