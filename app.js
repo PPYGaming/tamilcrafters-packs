@@ -46,7 +46,8 @@
     "1679379": "https://link-target.net/1306936/8rw1qMxa04Ku",
     "1655024": "https://link-hub.net/1306936/1BZrHcqClUIT",
     "1721937": "https://link-hub.net/1306936/KNS0Ef5XdaZP",
-    "1613999": "https://link-hub.net/1306936/cIDGv1IOzHdX"
+    "1613999": "https://link-hub.net/1306936/cIDGv1IOzHdX",
+    "1730717": "https://link-target.net/1306936/NTjlTAVi2qds"
   };
   var reduce = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
   var io = "IntersectionObserver" in window ? new IntersectionObserver(function (es) {
