@@ -164,3 +164,22 @@ dialog img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block}
 @media (max-width:520px){.gallery{grid-template-columns:1fr}.pic{aspect-ratio:4/3}.name{font-size:28px}}
 
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.tile{opacity:1;transform:none}}
+
+/* Pagination, using the packs catalog yellow theme. */
+.pager{display:flex;flex-direction:column;align-items:center;gap:10px;margin:22px 0 8px;max-width:100%}
+.pager[hidden]{display:none}
+.pager-buttons{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px;max-width:100%}
+.pager-btn{min-width:40px;min-height:40px;padding:0 10px;border:1px solid var(--line2);background:var(--s1);color:#fff;border-radius:13px;font:inherit;font-weight:700;line-height:1;cursor:pointer}
+.pager-btn:hover:not(:disabled){border-color:var(--gold)}
+.pager-btn:focus-visible{outline:2px solid var(--gold2);outline-offset:2px}
+.pager-btn.active{background:var(--gold);color:var(--bg);border-color:var(--gold)}
+.pager-btn:disabled{opacity:.4;cursor:not-allowed}
+.pager-gap{display:inline-flex;align-items:center;justify-content:center;min-width:20px;min-height:40px;color:var(--mute)}
+.pager-status{margin:0;text-align:center;font-size:.9rem;color:var(--mute)}
+@media (max-width:420px){.pager-btn{padding:0 8px}.pager-buttons{gap:5px}}
+#pager.pager{display:flex;flex-direction:column;align-items:center;width:100%;max-width:100%;box-sizing:border-box;overflow:hidden}
+#pager .pager-buttons{width:100%;box-sizing:border-box}
+#pager .pager-status{width:100%;overflow-wrap:anywhere}
+#pager .pager-btn{box-shadow:0 7px 24px rgba(0,0,0,.2);transition:transform .18s,background .18s,border-color .18s;-webkit-appearance:none;appearance:none}
+#pager .pager-btn:hover:not(:disabled){background:var(--gold);color:var(--bg);border-color:var(--gold);transform:translateY(-1px)}
+#pager .pager-btn.active{border-color:var(--gold)}
