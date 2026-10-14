@@ -1,6 +1,6 @@
 (function () {
   "use strict";
-  var packs = [], state = {q: "", type: "All", edition: "All", sort: "popular"};
+  var packs = [], state = {q: "", type: "All", edition: "All", sort: "popular", page: 1};
   var $ = function (id) { return document.getElementById(id); };
   var TYPES = ["All", "Addons", "Scripts", "Texture Packs", "Resource Packs"];
   var EDS = ["All", "Bedrock", "Java"];
@@ -193,7 +193,7 @@
       var b = el("button", "chip", v); b.type = "button";
       b.setAttribute("aria-pressed", String(state[key] === v));
       b.addEventListener("click", function () {
-        state[key] = v; sync(); render();
+        state[key] = v; state.page = 1; sync(); render();
         var n = box.children[list.indexOf(v)];
         if (n) n.focus({preventScroll: true});
       });
@@ -214,6 +214,7 @@
   }
   function sync() {
     var u = new URLSearchParams();
+    if (state.page > 1) u.set("page", state.page);
     if (state.q) u.set("q", state.q);
     if (state.type !== "All") u.set("type", state.type);
     if (state.edition !== "All") u.set("edition", state.edition);
@@ -226,9 +227,37 @@
     chips($("typeChips"), TYPES, "type");
     chips($("editionChips"), EDS, "edition");
     var l = filtered(), g = $("grid"), f = document.createDocumentFragment();
-    l.forEach(function (p, i) { f.appendChild(tile(p, i)); });
+    var pages = Math.max(1, Math.ceil(l.length / 10));
+    state.page = Math.min(pages, Math.max(1, state.page));
+    l.slice((state.page - 1) * 10, state.page * 10).forEach(function (p, i) { f.appendChild(tile(p, i)); });
     g.textContent = ""; g.appendChild(f);
     $("empty").hidden = l.length > 0;
+    var pager = $("pager"); pager.textContent = ""; pager.hidden = pages <= 1;
+    if (pages > 1) {
+      var row = el("div", "pager-buttons");
+      function button(text, page, disabled) {
+        var b = el("button", "pager-btn", text); b.type = "button"; b.disabled = disabled;
+        if (text === String(state.page)) { b.classList.add("active"); b.setAttribute("aria-current", "page"); }
+        if (/^\d+$/.test(text)) b.setAttribute("aria-label", "Page " + page);
+        b.addEventListener("click", function () {
+          state.page = page; sync(); render();
+          $("grid").scrollIntoView({behavior: reduce ? "auto" : "smooth", block: "start"});
+          var current = $("pager").querySelector("[aria-current=page]");
+          if (current) current.focus({preventScroll: true});
+        });
+        row.appendChild(b);
+      }
+      button("Previous", state.page - 1, state.page === 1);
+      var nums = [1, pages, state.page - 1, state.page, state.page + 1].filter(function (n, i, a) { return n >= 1 && n <= pages && a.indexOf(n) === i; }).sort(function (a, b) { return a - b; });
+      var prev = 0;
+      nums.forEach(function (n) {
+        if (n - prev > 1) { var gap = el("span", "pager-gap", "…"); gap.setAttribute("aria-hidden", "true"); row.appendChild(gap); }
+        button(String(n), n, false); prev = n;
+      });
+      button("Next", state.page + 1, state.page === pages);
+      pager.appendChild(row);
+    }
+    sync();
   }
   function jsonld() {
     var data = {"@context": "https://schema.org", "@type": "ItemList", itemListElement: packs.slice(0, 12).map(function (p, i) {
@@ -248,6 +277,7 @@
   }
   (function init() {
     var u = new URLSearchParams(location.search);
+    state.page = Math.max(1, parseInt(u.get("page"), 10) || 1);
     state.q = u.get("q") || "";
     if (TYPES.indexOf(u.get("type")) > -1) state.type = u.get("type");
     if (EDS.indexOf(u.get("edition")) > -1) state.edition = u.get("edition");
@@ -262,7 +292,7 @@
     var t;
     $("q").addEventListener("input", function (e) {
       clearTimeout(t);
-      t = setTimeout(function () { state.q = e.target.value; sync(); render(); }, 150);
+      t = setTimeout(function () { state.q = e.target.value; state.page = 1; sync(); render(); }, 150);
     });
     document.addEventListener("keydown", function (e) {
 
@@ -274,7 +304,7 @@
         closeDrawer();
       }
     });
-    $("sort").addEventListener("change", function (e) { state.sort = e.target.value; sync(); render(); });
+    $("sort").addEventListener("change", function (e) { state.sort = e.target.value; state.page = 1; sync(); render(); });
 
     toggle.addEventListener("click", function () { railOpen = !railOpen; applySide(); });
     menuBtn.addEventListener("click", function () { if (drawerOpen) closeDrawer(); else openSide($("sideClose")); });
