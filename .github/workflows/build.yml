@@ -1,0 +1,30 @@
+name: Build pack pages
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - packs.json
+      - descriptions.json
+      - tools/gen.py
+permissions:
+  contents: write
+concurrency:
+  group: build-pack-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - run: python tools/gen.py
+      - name: Commit generated files
+        run: |
+          git config user.name "pack-pages-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Build pack pages, thumbnails and sitemap"
+          git push
