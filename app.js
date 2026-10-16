@@ -135,7 +135,7 @@
     img.alt = p.title; img.loading = "lazy"; img.width = w; img.height = h;
     img.referrerPolicy = "no-referrer";
     img.onerror = function () { img.replaceWith(el("div", "ph", initials(p.title))); };
-    img.src = p.image;
+    img.src = p.thumb || p.image; img.decoding = "async";
     return img;
   }
   function tags(p) { return (p.edition + " / " + p.type).toUpperCase(); }
@@ -150,7 +150,7 @@
     var a = el("div", "acts");
     a.appendChild(link("btn solid", "Download", downloadUrl(p)));
     var det = el("a", "btn ghost", "Details");
-    det.href = "pack.html?id=" + encodeURIComponent(p.id);
+    det.href = p.slug ? "packs/" + p.slug + "/" : "pack.html?id=" + encodeURIComponent(p.id);
     a.appendChild(det);
     return a;
   }
